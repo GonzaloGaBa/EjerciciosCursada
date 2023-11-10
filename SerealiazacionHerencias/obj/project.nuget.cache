@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aDrM/X9l/U4tIQMjvIBtSEb5Xh92n0lC5lMcYpPYAi+lrlpl3qJsomzsycZan5tNz8qV6lJZ5qEgMaV7GyVnWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Claudia\\source\\repos\\Cursada_C_SHARP\\SerealiazacionHerencias\\SerealiazacionHerencias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Claudia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

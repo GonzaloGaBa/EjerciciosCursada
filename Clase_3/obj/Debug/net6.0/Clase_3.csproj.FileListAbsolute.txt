@@ -1,0 +1,14 @@
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\bin\Debug\net6.0\Clase_3.exe
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\bin\Debug\net6.0\Clase_3.deps.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\bin\Debug\net6.0\Clase_3.runtimeconfig.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\bin\Debug\net6.0\Clase_3.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\bin\Debug\net6.0\Clase_3.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\Clase_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\Clase_3.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\Clase_3.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\Clase_3.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\Clase_3.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\refint\Clase_3.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\Clase_3.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\Clase_3.genruntimeconfig.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_3\obj\Debug\net6.0\ref\Clase_3.dll

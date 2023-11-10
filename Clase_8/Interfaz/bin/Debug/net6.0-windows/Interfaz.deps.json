@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Interfaz/1.0.0": {
+        "dependencies": {
+          "Clase_8": "1.0.0"
+        },
+        "runtime": {
+          "Interfaz.dll": {}
+        }
+      },
+      "Clase_8/1.0.0": {
+        "runtime": {
+          "Clase_8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interfaz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase_8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

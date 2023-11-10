@@ -1,0 +1,14 @@
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\bin\Debug\net6.0\Clase_2.exe
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\bin\Debug\net6.0\Clase_2.deps.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\bin\Debug\net6.0\Clase_2.runtimeconfig.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\bin\Debug\net6.0\Clase_2.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\bin\Debug\net6.0\Clase_2.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\Clase_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\Clase_2.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\Clase_2.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\Clase_2.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\Clase_2.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\refint\Clase_2.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\Clase_2.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\Clase_2.genruntimeconfig.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_2\Cursada_C_SHARP\Clase_2\obj\Debug\net6.0\ref\Clase_2.dll

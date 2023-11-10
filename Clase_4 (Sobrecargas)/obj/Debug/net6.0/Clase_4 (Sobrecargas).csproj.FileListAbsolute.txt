@@ -1,0 +1,18 @@
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\bin\Debug\net6.0\Clase_4 (Sobrecargas).exe
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\bin\Debug\net6.0\Clase_4 (Sobrecargas).deps.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\bin\Debug\net6.0\Clase_4 (Sobrecargas).runtimeconfig.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\bin\Debug\net6.0\Clase_4 (Sobrecargas).dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\bin\Debug\net6.0\Clase_4 (Sobrecargas).pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\bin\Debug\net6.0\ClasesNegocios.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\bin\Debug\net6.0\ClasesNegocios.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).csproj.AssemblyReference.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).AssemblyInfo.cs
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).csproj.CopyComplete
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\refint\Clase_4 (Sobrecargas).dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\Clase_4 (Sobrecargas).genruntimeconfig.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_4 (Sobrecargas)\obj\Debug\net6.0\ref\Clase_4 (Sobrecargas).dll

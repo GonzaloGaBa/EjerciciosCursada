@@ -1,0 +1,17 @@
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\bin\Debug\net6.0\SerealiazacionHerencias.exe
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\bin\Debug\net6.0\SerealiazacionHerencias.deps.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\bin\Debug\net6.0\SerealiazacionHerencias.runtimeconfig.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\bin\Debug\net6.0\SerealiazacionHerencias.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\bin\Debug\net6.0\SerealiazacionHerencias.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\refint\SerealiazacionHerencias.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.genruntimeconfig.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\ref\SerealiazacionHerencias.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.csproj.AssemblyReference.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\SerealiazacionHerencias\obj\Debug\net6.0\SerealiazacionHerencias.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\bin\Debug\net6.0\ClasesNegocios.deps.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\bin\Debug\net6.0\ClasesNegocios.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\bin\Debug\net6.0\ClasesNegocios.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\obj\Debug\net6.0\ClasesNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\obj\Debug\net6.0\ClasesNegocios.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\obj\Debug\net6.0\ClasesNegocios.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\obj\Debug\net6.0\ClasesNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\obj\Debug\net6.0\ClasesNegocios.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\obj\Debug\net6.0\refint\ClasesNegocios.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\obj\Debug\net6.0\ClasesNegocios.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\ClasesNegocios\obj\Debug\net6.0\ref\ClasesNegocios.dll

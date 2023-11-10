@@ -1,0 +1,17 @@
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\bin\Debug\net6.0-windows\Clase_6.exe
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\bin\Debug\net6.0-windows\Clase_6.deps.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\bin\Debug\net6.0-windows\Clase_6.runtimeconfig.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\bin\Debug\net6.0-windows\Clase_6.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\bin\Debug\net6.0-windows\Clase_6.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.FormularioInicial.resources
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.Properties.Resources.resources
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.csproj.GenerateResource.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\refint\Clase_6.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\Clase_6.genruntimeconfig.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_6\obj\Debug\net6.0-windows\ref\Clase_6.dll

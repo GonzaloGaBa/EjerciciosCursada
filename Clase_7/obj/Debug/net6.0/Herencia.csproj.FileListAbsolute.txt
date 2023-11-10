@@ -1,0 +1,11 @@
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\obj\Debug\net6.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\obj\Debug\net6.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\obj\Debug\net6.0\Herencia.AssemblyInfo.cs
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\obj\Debug\net6.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\bin\Debug\net6.0\Herencia.deps.json
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\bin\Debug\net6.0\Herencia.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\bin\Debug\net6.0\Herencia.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\obj\Debug\net6.0\Herencia.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\obj\Debug\net6.0\refint\Herencia.dll
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\obj\Debug\net6.0\Herencia.pdb
+C:\Users\Claudia\source\repos\Cursada_C_SHARP\Clase_7\obj\Debug\net6.0\ref\Herencia.dll

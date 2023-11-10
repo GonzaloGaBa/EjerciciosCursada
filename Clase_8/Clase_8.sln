@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase_8", "Clase_8.csproj", "{6BC9076F-D5DE-46EE-A343-30319B5B1EFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaz", "Interfaz\Interfaz.csproj", "{7E51E8F1-F08B-451D-95EA-B0C2D5B23A95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{521039CA-2633-4BD3-8287-5FF742BB6775}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC9076F-D5DE-46EE-A343-30319B5B1EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BC9076F-D5DE-46EE-A343-30319B5B1EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BC9076F-D5DE-46EE-A343-30319B5B1EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BC9076F-D5DE-46EE-A343-30319B5B1EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E51E8F1-F08B-451D-95EA-B0C2D5B23A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E51E8F1-F08B-451D-95EA-B0C2D5B23A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E51E8F1-F08B-451D-95EA-B0C2D5B23A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E51E8F1-F08B-451D-95EA-B0C2D5B23A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A107AE-5A1A-4F4D-9023-D6699325D1E4}
+	EndGlobalSection
+EndGlobal

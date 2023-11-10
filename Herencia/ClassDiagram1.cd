@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Herencia.Telefono">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAQAAAAAAAAAAAQAAAAEACAAAgAgAAIAAA=</HashCode>
+      <FileName>Telefono.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Herencia.Program">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Herencia.TelefonoAndroid">
+    <Position X="3.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgBAEAAAAAAAAAAAEAAAAAAAAAAAwAAAAUAAAAI=</HashCode>
+      <FileName>TelefonoAndroid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Herencia.TelefonoIOS">
+    <Position X="10.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAwAEAAIQAAAAAEAAAAAAAAAAAAwAAAAABAAAAA=</HashCode>
+      <FileName>TelefonoIOS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Herencia.TelefonoInteligente">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAggAAEAIAAAAAAAAAAAAAAgAAgAAAAIAEAABABAA=</HashCode>
+      <FileName>TelefonoInteligente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Herencia.TelefonoDeJuguete">
+    <Position X="15.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAAAQAAAAAAAAAAAAAAAAAAAAgCAAAAAgAAABAQAA=</HashCode>
+      <FileName>TelefonoDeJuguete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
